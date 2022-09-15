@@ -14,4 +14,4 @@ class DataManipulation {
         sc.close();  //closes the scanner  
     }  
 }  
-   
+   //https://builtin.com/blockchain/blockchain-applications
